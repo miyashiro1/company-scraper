@@ -3,3 +3,6 @@
 
 ## We get all these information on the csv file
 ![](https://i.imgur.com/2D0Kub3.png)
+
+## Then we get a file that'll look like this.
+![](https://i.imgur.com/GyfQ89z.png)
